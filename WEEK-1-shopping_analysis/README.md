@@ -1,5 +1,8 @@
 # Shopping Dataset Analysis
 
+## Author
+Sadiya Shaikh
+
 ## Objective
 Perform exploratory data analysis (EDA), data cleaning, feature engineering, and visualization on a shopping dataset.
 
