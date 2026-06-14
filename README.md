@@ -5,11 +5,11 @@ This repository contains all assignments, projects, and learning activities comp
 ## 👩‍💻 Author
 **Sadiya Shaikh**
 
-## 📂 Repository Structure
+## Repository Structure
 
-- 📁 [WEEK-1-shopping_analysis](./WEEK-1-shopping_analysis)
-- 📁 WEEK-2 *(Coming Soon)*
-- 📁 WEEK-3 *(Coming Soon)*
+-  [WEEK-1-shopping_analysis](./WEEK-1-shopping_analysis)
+- WEEK-2 *(Coming Soon)*
+-  WEEK-3 *(Coming Soon)*
 
 ## 🛠️ Technologies Used
 
@@ -20,12 +20,6 @@ This repository contains all assignments, projects, and learning activities comp
 - Seaborn
 - Jupyter Notebook
 - Git & GitHub
-
-## 📋 Weekly Assignments
-
-| Week | Project |
-|------|---------|
-| Week 1 | [Shopping Dataset Analysis](./WEEK-1-shopping_analysis) |
 
 ## 🎯 Learning Objectives
 
