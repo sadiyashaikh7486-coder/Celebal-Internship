@@ -1,5 +1,8 @@
 # Shopping Dataset Analysis
 
+## Author
+Sadiya Shaikh
+
 ## Objective
 Perform exploratory data analysis (EDA), data cleaning, feature engineering, and visualization on a shopping dataset.
 
@@ -51,4 +54,20 @@ combined_dataset.csv
 ## Output Files
 - data_analysis.ipynb
 - cleaned_combined_dataset.csv
+
+## 📂 Project Structure
+
+```text
+WEEK-1-shopping_analysis/
+│
+├── data/
+│   ├── Combined_dataset.csv
+│   └── cleaned_combined_dataset.csv
+│
+├── notebook/
+│   └── data_analysis.ipynb
+│
+└── README.md
+```
+
   
