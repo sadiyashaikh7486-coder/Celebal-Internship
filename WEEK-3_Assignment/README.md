@@ -124,6 +124,6 @@ The dataset contains information about:
 
 ## Author
 
-**Name:** Sadiya
+**Name:** Sadiya Shaikh
 
 **Project:** SQL Advanced Analytics – Customer Sales Insights
