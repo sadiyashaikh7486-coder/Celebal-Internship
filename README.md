@@ -2,7 +2,7 @@
 
 This repository contains all assignments, projects, and learning activities completed during my **Celebal Technologies Internship 2026**.
 
-## 👩‍💻 Author
+##  Author
 **Sadiya Shaikh**
 
 ## Repository Structure
@@ -11,7 +11,7 @@ This repository contains all assignments, projects, and learning activities comp
 - WEEK-2 *(Coming Soon)*
 -  WEEK-3 *(Coming Soon)*
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Python
 - Pandas
@@ -21,7 +21,7 @@ This repository contains all assignments, projects, and learning activities comp
 - Jupyter Notebook
 - Git & GitHub
 
-## 🎯 Learning Objectives
+##  Learning Objectives
 
 - Data Cleaning & Preprocessing
 - Exploratory Data Analysis (EDA)
