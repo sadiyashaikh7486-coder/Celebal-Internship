@@ -26,12 +26,12 @@ This project demonstrates advanced SQL concepts using the **Sample Superstore** 
 WEEK-3_Assignment
 │
 ├── Queries
-│   ├── Database_Creation.sql
-│   ├── Subqueries.sql
-│   ├── CTE.sql
-│   ├── Window_Function.sql
-│   ├── Combined_Query.sql
-│   └── Mini_Project.sql
+│   ├── 1_Database_Creation.sql
+│   ├── 2_Subqueries.sql
+│   ├── 3_CTE.sql
+│   ├── 4_Window_Function.sql
+│   ├── 5_Combined_Query.sql
+│   └── 6_Mini_Project.sql
 │
 ├── Sample - Superstore.csv
 │
