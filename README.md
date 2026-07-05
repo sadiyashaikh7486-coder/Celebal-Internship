@@ -8,8 +8,9 @@ This repository contains all assignments, projects, and learning activities comp
 ## Repository Structure
 
 -  [WEEK-1-shopping_analysis](./WEEK-1-shopping_analysis)
-- WEEK-2 *(Coming Soon)*
--  WEEK-3 *(Coming Soon)*
+- WEEK-2_Assignment
+-  WEEK-3_Assignment
+-  WEEK-4_Assignment
 
 ##  Technologies Used
 
