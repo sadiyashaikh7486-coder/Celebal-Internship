@@ -11,6 +11,7 @@ This repository contains all assignments, projects, and learning activities comp
 - [WEEK-2_Assignment](./WEEK-2_Assignment)
 -  [WEEK-3_Assignment](./WEEK-3_Assignment)
 - [WEEK-4_Assignment](./WEEK-4_Assignment)
+-  [WEEK-5_Assignment](./WEEK-5_Assignment)
 
 ##  Technologies Used
 
