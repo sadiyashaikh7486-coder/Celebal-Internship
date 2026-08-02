@@ -14,6 +14,8 @@ This repository contains all assignments, projects, and learning activities comp
 -  [WEEK-5_Assignment](./WEEK-5_Assignment)
 - [WEEK-6_Assignment](./WEEK-6_Assignment)
 - [WEEK-7_Assignment](./WEEK-7_Assignment)
+- [Late_Transaction_Databricks_Project](./Late_Transaction_Databricks_Project)
+  
 
 ##  Technologies Used
 
